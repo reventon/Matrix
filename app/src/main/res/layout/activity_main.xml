@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:paddingLeft="2dp"
+android:background="#585858"
+android:orientation="vertical" >
+
+<ScrollView
+    android:id="@+id/$scroll_dial_text"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1" >
+
+    <TextView
+        android:id="@+id/dial_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/main_text_1"
+        android:textColor="#fff"
+        android:textSize="23sp" />
+</ScrollView>
+
+<Button
+    android:id="@+id/nextButton"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/nextButton" />
+
+</LinearLayout>
+

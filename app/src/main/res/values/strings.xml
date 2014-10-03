@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Matrix</string>
+    <string name="main_screen_title">Matrix</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nextButton">Next</string>
+    <string name="main_text_1">
+.P:\t Hello!\n
+L:\t Hi Peter, come on in.\n
+P:\t Thanks. Where’s everyone else?\n
+L:\t My sister and her husband are in the kitchen. Two or three other people are in the kitchen, too.\n
+P:\t This is a very nice apartment.\n
+L:\t Thanks. My parents own it.\n
+P:\t I see. Is this a picture of your parents over here?\n
+L:\t Yes, this is my entire family.
+</string>
+<string name="main_text_2">
+.P:\t Who’s who?\n
+L:\t Well, these are my parents, Linda and Joseph.\n
+P:\t And who’s this?\n
+L:\t This is my brother Thomas. I also have a sister but she’s not in the picture. She’s here tonight.\n
+P:\t And who’s the little girl?\n
+L:\t Well, that’s me, of course.\n
+P:\t Really? You still have the same beautiful smile!\n
+L:\t What a sweet thing to say!\n
+P:\t Well, that’s the kind of guy I am.
+</string>
+
+</resources>
